@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2015
+Project("{B7A43AD8-7B12-5E31-53A9-B3E9DC878ED9}") = "MarkRau_HW3_PolyphonicSynth", "MarkRau_HW3_PolyphonicSynth.vcxproj", "{249F8634-C00D-BC45-FA81-E952F94B6666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{249F8634-C00D-BC45-FA81-E952F94B6666}.Debug|Win32.ActiveCfg = Debug|Win32
+		{249F8634-C00D-BC45-FA81-E952F94B6666}.Debug|Win32.Build.0 = Debug|Win32
+		{249F8634-C00D-BC45-FA81-E952F94B6666}.Release|Win32.ActiveCfg = Release|Win32
+		{249F8634-C00D-BC45-FA81-E952F94B6666}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
